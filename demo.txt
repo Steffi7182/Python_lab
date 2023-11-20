@@ -1,0 +1,4 @@
+python is object oriented programming language
+python is simple
+python is intrepreted programming language
+
